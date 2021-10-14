@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+.title {
+  font-size: 18px;
+  font-family: "Roboto Condesed", sans-serif;
+}
+
+.Container{
+  text-align: center;
+}
